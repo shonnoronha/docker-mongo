@@ -1,0 +1,5 @@
+node_modules/
+.env
+docker-commands.md
+Dockerfile
+docker-compose.yaml
